@@ -1,2 +1,4 @@
-# cppgui
-My first cpp gui
+# C++ GUI
+
+Fist C++ GUI.
+
