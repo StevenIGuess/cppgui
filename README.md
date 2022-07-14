@@ -14,7 +14,7 @@ You can also rebuild the entire thing using visual studio.
 It's like scratch but in bad.
 Open the Programm and enter "Color:" in the text box.
 Now press box one.
-Now press boc two.
+Now press box two.
 Enter "Blue", "Red", "Black" or "Grey" into the text box.
 Press box one.
 Press box two.
