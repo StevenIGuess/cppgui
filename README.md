@@ -7,6 +7,7 @@ I don't know what I did here, I coded this thing when I was like 13 years old lo
 ## Installing the thing
 
 Release.exe is an installer, but I wouldn't trust that thing. Just download the Release folder and execute the main.exe file.
+You can also rebuild the entire thing using visual studio.
 
 ## Getting started
 
