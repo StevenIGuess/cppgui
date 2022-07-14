@@ -1,5 +1,8 @@
 # C++ GUI
 
+# ATTENTION THIS CODE IS PROBABLY NOT SAFE
+13 year old me might have been an idiot im not sure. Run this code under your own responsability.
+
 Fist C++ GUI.
 
 I don't know what I did here, I coded this thing when I was like 13 years old lol.
